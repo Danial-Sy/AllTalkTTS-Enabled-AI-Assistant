@@ -1,3 +1,7 @@
 [submodule "alltalk/alltalk"]
 	path = alltalk/alltalk
 	url = https://github.com/erew123/alltalk_tts.git
+[submodule "fairseq/fairseq"]
+	path = fairseq/fairseq
+	url = https://github.com/facebookresearch/fairseq.git
+	branch = main
